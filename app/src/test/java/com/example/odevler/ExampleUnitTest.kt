@@ -1,4 +1,4 @@
-package com.example.odev1
+package com.example.odevler
 
 import org.junit.Test
 

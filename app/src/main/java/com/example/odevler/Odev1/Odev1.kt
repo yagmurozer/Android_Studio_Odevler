@@ -1,4 +1,4 @@
-package com.example.odev1.degiskenler
+package com.example.odevler.Odev1
 
 fun main(){
 

@@ -1,4 +1,4 @@
-package com.example.odev1.ui.theme
+package com.example.odevler.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

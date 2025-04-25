@@ -1,4 +1,4 @@
-package com.example.odev1
+package com.example.odevler
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
